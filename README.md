@@ -4,7 +4,7 @@ In this repository, I've analyzed Walmart's Commerce Data. I've completed the Bu
 Techniques that I've used:
   * Hierarchical Clustering
   * Multiple Regression
-  * Feature Engineerig / Data Enriching
+  * Feature Engineering / Data Enriching
 
 Languages and Tools that I've used
  * Microsoft Excel
