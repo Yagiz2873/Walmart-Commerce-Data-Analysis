@@ -6,7 +6,7 @@ Techniques that I've used:
   * Multiple Regression
   * Feature Engineerig / Data Enriching
 
-Langueages and Tools that I've used
+Languages and Tools that I've used
  * Microsoft Excel
  * Python
  * Microsoft Power BI
